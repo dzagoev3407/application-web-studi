@@ -1,0 +1,20 @@
+@media screen and (max-width: 750px)
+{
+    .card-body > .form-control
+    {
+        font-size: 2rem;
+    }
+
+    .card-body
+    {
+        height: 1400px;
+        font-size: 2em;
+        text-align: center;
+    }
+
+    button
+    {
+        font-size: 40px;
+    }
+    
+}

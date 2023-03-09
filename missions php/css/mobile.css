@@ -1,0 +1,184 @@
+@media screen and (max-width: 995px)
+{
+    .navigation > h1
+    {
+        margin-left: 338px;
+        font-size: 3.5em;
+    }
+
+    .navbar-nav
+    {
+        text-align: center;
+        font-size: 3em;
+    }
+
+    .navbar-toggler-icon > i
+    {
+        font-size: 55px;
+    }
+
+    .navbar-nav .nav-link
+    {
+        font-size: 1em;
+    }
+
+    .jumbotron h2
+    {
+        font-size: 85px;
+    }
+
+    .text-jumbotron a
+    {
+        font-size: 45px;
+    }
+
+    .jumbotron p
+    {
+        font-size: 45px;
+    }
+
+    .date
+    {
+        font-size: 45px;
+    }
+
+    .title-page
+    {
+        padding-top: 3%;
+        margin-left: 28px;
+        font-size: 50px;
+    }
+
+    .card-missions
+    {
+        margin-left: 320px;
+        padding-top: 2.5%;
+    }
+
+    .card-missions .card-title
+    {
+        font-size: 2em;
+        text-align: center;
+    }
+
+    .card-missions .card-text
+    {
+        font-size: 27px;
+        text-align: center;
+    }
+
+    .card-missions a
+    {
+        margin-left: 82px;
+        font-size: 23px;
+    }
+
+    .stats h4
+    {
+        font-size: 50px;
+    }
+
+    .footer
+    {
+        margin-top: 26em;
+    }
+
+    .footer ul 
+    {
+        margin-left: 40px;
+    }
+
+    .footer ul a
+    {
+        font-size: 2em;
+        margin-left: 10px;
+    }
+
+    .footer .copyright
+    {
+        margin-left: 38px;
+        margin-top: 10px;
+        font-size: 2em;
+    }
+
+    /* Page des missions */
+
+    .nos-missions-section > h2, h3
+    {
+        font-size: 50px;
+    }
+
+    .card-missions-detail
+    {
+        margin-top: 6em;
+    }
+
+    .card-missions-detail .justify-content-start
+    {
+        flex-direction: column;
+    }
+
+    .card-missions-detail .card-title
+    {
+        font-size: 3.2em;
+        text-align: center;
+    }
+
+    .card-missions-detail .card-text
+    {
+        font-size: 2.5em;
+        text-align: center;
+    }
+
+    .card-missions-detail > button
+    {
+        margin-left: 435px;
+        margin-top: 2%;
+    }
+
+    .card-missions-detail > .btn .btn-primary
+    {
+        margin-left: 409px;
+    }
+
+    .card-missions-detail > .btn .btn-primary a
+    {
+        font-size: 2em;
+    }
+    
+
+    .footer-nosMissions
+    {
+        margin-top: 69em;
+    }
+
+    /* Formulaire de connexion à l'espace ADMIN */
+
+    .gradient-form 
+    {
+        height: 100vh !important;
+        font-size: 45px;
+        text-align: center;
+    }
+
+    .gradient-form input
+    {
+        font-size: 1.5rem;
+    }
+
+    /* Formulaire ajout mission */
+
+    .wrap-login100
+    {
+        width: 1200px;
+        height: 1600px;
+    }
+}
+
+@media (min-width: 769px) 
+{
+.gradient-custom-2 {
+border-top-right-radius: .3rem;
+border-bottom-right-radius: .3rem;
+}
+}
